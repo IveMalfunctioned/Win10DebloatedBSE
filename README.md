@@ -11,7 +11,10 @@ Windows 10 Debloated BSE (Better Software Edition) is a custom version of Window
 ⁯
 Downloads for this ISO can be found in the [releases tab](https://www.github.com/IveMalfunctioned/Win10DebloatedBSE/releases).
 
-⁯
+⁯## Licensing:
+Since I am in no way affiliated with Microsoft or the development of Windows and also do not hold any rights to Microsoft Windows, **the terms of use are the same as Microsoft's.**
+
+This includes: Basing your own mod off of this build, using it for commercial purposes, or for personal use.
 
 ⁯
 
